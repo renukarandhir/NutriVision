@@ -27,10 +27,13 @@ NutriVision is an AI-powered app built with Python and Streamlit that analyzes f
 ```bash
    pip install -r requirements.txt
 
+## ⚙️ Configuration
 
+Set up your **Google API key** 🔑:  
 
-
-
-
-
-
+1. Go to [Google Cloud Console](https://console.cloud.google.com/).  
+2. Enable the **Generative AI API**.  
+3. Create an API key.  
+4. Create a `.env` file in the project directory and add:  
+   ```env
+   GOOGLE_API_KEY=your_google_api_key_here
