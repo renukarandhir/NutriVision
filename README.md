@@ -10,9 +10,25 @@ NutriVision is an AI-powered app built with Python and Streamlit that analyzes f
 
 ##  Installation
 1. **Clone the repository:**
-   ```bash git clone https://github.com/renukarandhir/NutriVision.git
+   ```bash
+   git clone https://github.com/renukarandhir/NutriVision.git
 
 2. **Navigate to the project directory:**
-   ```bash cd NutriVision-App
+   ```bash
+   cd NutriVision-App
+
+3. **Create and activate a virtual environment:**
+      ```bash
+      python -m venv env
+      .\env\Scripts\activate   # On Windows
+      source env/bin/activate  # On Mac/Linux
+
+4. **Install the required packages:**
+         ```bash
+   pip install -r requirements.txt
+
+
+
+
 
 
