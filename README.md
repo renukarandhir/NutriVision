@@ -24,8 +24,10 @@ NutriVision is an AI-powered app built with Python and Streamlit that analyzes f
       source env/bin/activate  # On Mac/Linux
 
 4. **Install the required packages:**
-         ```bash
+```bash
    pip install -r requirements.txt
+
+
 
 
 
