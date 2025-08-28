@@ -58,11 +58,13 @@ NutriVision is a cutting-edge application that leverages Generative AI to analyz
 
     ![Upload Food Item Example](images/FoodImageUpload.png)
 2. **View the detailed analysis**:
-    ## Sample 1 - PuranPoli(Indian delicacy)
+    
+    ## Sample 1 - French Salad
+    ![Analysis Example 2](images/Analysis.png)
+
+   ## Sample 2 - PuranPoli(Indian delicacy)
     ![Analysis Example 1](images/PuranPoliAnalysis.png)
 
-    ## Sample 2 - French Salad
-    ![Analysis Example 2](images/Analysis.png)
 
 ## License
 
@@ -72,9 +74,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you have any questions, feel free to reach out to the project maintainers:
 
-- Name: Sneha Deshmukh | deshmusn@gmail.com
-- GitHub: [SnehaDeshmukh28](https://github.com/SnehaDeshmukh28)
+- Name: Renuka Randhir
+- GitHub: Renuka Randhir (https://github.com/renukarandhir)
 
 ---
 
-Thank you for using NutriVision!🙏🏻 We hope it helps you make informed decisions about your food choices and their impact on your health and the environment.
